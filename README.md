@@ -16,7 +16,7 @@ précisées dans les fichiers reçus. Les données ne sont pas republiées dans 
 ## Cartes
 
 ### 1. Densité de la population ivoirienne par région
-![Carte de densité](cartes/carte1_densite_population.png)
+![Carte de densité](carte1_densite_population.png)
 
 Carte en 5 classes de densité (hab./km²), avec la classification proposée par
 défaut par ArcMap (seuils naturels de Jenks). La région d'Abidjan est seule dans la classe la
@@ -24,7 +24,7 @@ plus élevée, tandis que les régions du nord (Folon, Kabadougou, Bafing, Worod
 Tchologo, Boukani) se situent dans la classe la plus faible.
 
 ### 2. Répartition de la population ivoirienne par sexe selon les régions
-![Carte par sexe](cartes/carte2_population_par_sexe.png)
+![Carte par sexe](carte2_population_par_sexe.png)
 
 Diagrammes en barres, hommes et femmes, placés sur chaque région. La région d'Abidjan
 se distingue nettement par la taille de ses barres.
